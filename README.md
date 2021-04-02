@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamedisaac from Somalia
-- 👀 I’m interested in creating Open Education Resources
+- 👀 I’m interested in creating Open Educational Resources
 - 🌱 I’m currently learning Dart programming language to attain that noble objective
 - 💞️ I’m figuring out how Github works, I hope it will make a difference.
 - 📫 How to reach me ... Isxaaqacademy@gmail.com
